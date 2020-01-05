@@ -1,7 +1,7 @@
 <H1 align="center">ALGORITHM STUDY</H1>
 
-## [ PAGE ]
-#### 📌 [BeakJoon](https://www.acmicpc.net/)
+---
+📌 [BeakJoon](https://www.acmicpc.net/)
 
 <table>
   <tr> <td> 제목 </td> <td> 정보 </td> <td> 총 문제 </td> <td> 내가 푼 문제 </td> </tr>
